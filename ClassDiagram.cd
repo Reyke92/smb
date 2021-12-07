@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SMB.Game.GameManager">
+    <Position X="2.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgCCAAAAAAAAAAAhAAAQABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.GameResources">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAIAAAhAAAAAAACAAAAAABBAAj4AAIIIAQAEA=</HashCode>
+      <FileName>Assets\Code\Game\GameResources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.ValueChangedEventArgs">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\GameResources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.SoundManger">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAgAAEAAACACAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Code\Game\SoundManager.cs</FileName>
+      <NewMemberFileName>Assets\Code\Game\UIManager.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.UIManager">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAGAAgAEAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SMB.Game.Sound">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkgBAgGgITAQAAQAAAAAAAgAAAAgAAAAAwRBAAAEA=</HashCode>
+      <FileName>Assets\Code\Game\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

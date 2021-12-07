@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SMB.Game.Blocks.ActionBlock">
+    <Position X="1.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Blocks\ActionBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Blocks.Block">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAGAAAAAAAAAAgAAAAiEA=</HashCode>
+      <FileName>Assets\Code\Game\Blocks\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Blocks.CoinBlock">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEA=</HashCode>
+      <FileName>Assets\Code\Game\Blocks\CoinBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Blocks.HiddenBlock">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEA=</HashCode>
+      <FileName>Assets\Code\Game\Blocks\HiddenBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Enemies.Enemy">
+    <Position X="4.75" Y="12.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAEA=</HashCode>
+      <FileName>Assets\Code\Game\Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Enemies.Goomba">
+    <Position X="0.5" Y="14.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Enemies\Goomba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Enemies.GreenTurtle">
+    <Position X="7.75" Y="17" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Enemies\GreenTurtle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Enemies.RedTurtle">
+    <Position X="11.25" Y="17" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Enemies\RedTurtle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Enemies.Turtle">
+    <Position X="9.5" Y="14.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Enemies\Turtle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.GameManager">
+    <Position X="16.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEQBAAAAgCCAAAAAAAAAAApAgEQAAAAAQIAAAAAAAEA=</HashCode>
+      <FileName>Assets\Code\Game\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.GameResources">
+    <Position X="19.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AEAAAQAAIAAAhAAAAAAACAAAAAABBAAj5AAIJIAQAEA=</HashCode>
+      <FileName>Assets\Code\Game\GameResources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.ValueChangedEventArgs">
+    <Position X="16.5" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\GameResources.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.InputManager">
+    <Position X="19.25" Y="6.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAAAAAAAAAAEAAAAAAAAAQAAAAAAACkA=</HashCode>
+      <FileName>Assets\Code\Game\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Player">
+    <Position X="9.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AEQBAAAAAiDABIAAAAAAAAAESAAAAAAAQIAgkAAAAEA=</HashCode>
+      <FileName>Assets\Code\Game\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.SoundManager">
+    <Position X="9.75" Y="5.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>ggABAAAAICAAgIAAAAACAAAIAAAACACAwAAAAAEAEEA=</HashCode>
+      <FileName>Assets\Code\Game\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.UIManager">
+    <Position X="13.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACCAABAAGAAgAEAAAgAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Code\Game\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Items.ConsumableItem">
+    <Position X="18.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Items\ConsumableItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Items.Fireball">
+    <Position X="20.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Items\Fireball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Items.FirePower">
+    <Position X="15.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACBAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Items\FirePower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Items.RedMushroom">
+    <Position X="19.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACBAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Items\RedMushroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SMB.Game.Items.Star">
+    <Position X="22" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACBAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Items\Star.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SMB.Game.PlayerType">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\Player.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SMB.Game.GameSound">
+    <Position X="14.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAhAgGgITAQAAAAAAAAEAgAAAAAAAAEAgRAAAAAA=</HashCode>
+      <FileName>Assets\Code\Game\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SMB.Game.BackgroundMusic">
+    <Position X="16" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAgAAAAAAABAEAIAAAAAgAAAAABgAAFAAAABAAEAA=</HashCode>
+      <FileName>Assets\Code\Game\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

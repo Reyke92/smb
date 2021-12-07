@@ -1,0 +1,16 @@
+{
+    "name": "SMB",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e5bf5c4cbf8fdf3489133ceefea7f091"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
